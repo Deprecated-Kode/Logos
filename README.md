@@ -9,4 +9,9 @@
 
 -----------------------------------
 
+![K](/Sondro/32px-/k-sh_8b_32px.png)
+
+#### k - with shadow _ 8bit _ 32px X 32px _ png  (https://github.com/Kode/Logos/tree/master/Sondro/32px-/k-sh_8b_32px.png)
+
+-----------------------------------
 Naming formats explained here later.
