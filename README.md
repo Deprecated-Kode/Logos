@@ -6,8 +6,8 @@
 ![K](/Sondro/32px-/k-sh_8b_16px.png)
 
 #### k - with shadow _ 8-bit color _ 16px X 16px _ png  
-<a href="https://github.com/Kode/Logos/tree/master/Sondro/32px-/k-sh_8b_16px.png">k-sh_8b_16px.png</a>
-
+####<a href="https://github.com/Kode/Logos/tree/master/Sondro/32px-/k-sh_8b_16px.png">k-sh_8b_16px.png</a>
+####PLATFORMS: Web favorites, WinXP 
 
 -----------------------------------
 
