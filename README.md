@@ -3,6 +3,14 @@
 
 -----------------------------------
 
+![K](/Sondro/32px-/k-sh_256c_16px.png)
+
+#### k - with shadow _ 256 colors _ 16px X 16px _ png  
+#### <a href="./Sondro/32px-/k-sh_256c_16px.png">k-sh_256c_16px.png</a>
+[old] Web favorites, [old] tray icon 
+
+-----------------------------------
+
 ![K](/Sondro/32px-/k-sh_8b_16px.png)
 
 #### k - with shadow _ 8-bit color _ 16px X 16px _ png  
@@ -11,13 +19,6 @@
 
 -----------------------------------
 
-![K](/Sondro/32px-/k-sh_256c_16px.png)
-
-#### k - with shadow _ 256 colors _ 16px X 16px _ png  
-#### <a href="./Sondro/32px-/k-sh_256c_16px.png">k-sh_256c_16px.png</a>
-[old] Web favorites, [old] tray icon 
-
------------------------------------
 
 ![K](/Sondro/32px-/k-sh_8b_32px.png)
 
