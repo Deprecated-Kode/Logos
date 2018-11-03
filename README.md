@@ -45,14 +45,14 @@ Github Kode main repo
 
 #### k - with shadow _ 8-bit color _ 256px X 256px _ png
 #### <a href="./Sondro/512px-/k-sh_8b_256px.png">k-sh_8b_256px.png</a>
-Hi Res Icon
+Hi res icon
 
 -----------------------------------
 ![K](/Sondro/1080p/k-sh_8b_416x407px.png)
 
 #### k - with shadow _ 8-bit color _ 416px X 407px _ png
 #### <a href="./Sondro/1080p/k-sh_8b_416x407px.png">k-sh_8b_416x407px.png</a>
-1080p Logo
+1080p logo
 
 -----------------------------------
 
@@ -60,7 +60,7 @@ Hi Res Icon
 
 #### k - with shadow _ 8-bit color _ 512px X 512px _ png
 #### <a href="./Sondro/512px-/k-sh_8b_512px.png">k-sh_8b_512px.png</a>
-Hi Res Icon/Texture
+Hi res icon, texture
 
 -----------------------------------
 
@@ -68,7 +68,7 @@ Hi Res Icon/Texture
 
 #### k - with shadow _ 8-bit color _ 1024px X 1024px _ png
 #### <a href="./Sondro/1024px+/k-sh_8b_1024px.png">k-sh_8b_1024px.png</a>
-Hi Res Logo/Texture
+Hi res logo, Hi res Texture
 
 -----------------------------------
 
@@ -76,6 +76,6 @@ Hi Res Logo/Texture
 
 #### k - with shadow _ 8-bit color _ 1973px X 1973px _ png
 #### <a href="./Sondro/1024px+/k-sh_8b_1973px.png">k-sh_8b_1973px.png</a>
-Hi Res Logo/TextureHi Res Logo/Texture
+Print logo, ultra res texture
 
 -----------------------------------
