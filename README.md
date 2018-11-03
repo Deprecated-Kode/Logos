@@ -74,8 +74,8 @@ Hi Res Logo/Texture
 
 ![K](/Sondro/1024px+/k-sh_8b_5k_25%-margin.png)
 
-#### k - with shadow _ 8-bit color _ 1024px X 1024px _ png
-#### <a href="./Sondro/1024px+/k-sh_8b_5k_25%-margin">k-sh_8b_5k_25%-margin</a>
+#### k - with shadow _ 8-bit color _ 1973px X 1973px _ png
+#### <a href="./Sondro/1024px+/k-sh_8b_5k_25%-margin">k-sh_8b_5k_25%-margin.png</a>
 Hi Res Logo/Texture
 
 -----------------------------------
