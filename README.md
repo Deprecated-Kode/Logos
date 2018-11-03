@@ -11,6 +11,14 @@
 
 -----------------------------------
 
+![K](/Sondro/32px-/k-sh_256c_16px.png)
+
+#### k - with shadow _ 256 colors _ 16px X 16px _ png  
+#### <a href="https://github.com/Kode/Logos/tree/master/Sondro/32px-/k-sh_256c_16px.png">k-sh_256c_16px.png</a>
+[old] Web favorites, [old] tray icon 
+
+-----------------------------------
+
 ![K](/Sondro/32px-/k-sh_8b_32px.png)
 
 #### k - with shadow _ 8-bit color _ 32px X 32px _ png  
