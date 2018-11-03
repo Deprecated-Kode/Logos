@@ -34,11 +34,11 @@ Web favorites, tray icon
 Chrome browser favicon 
 
 -----------------------------------
-![K](/Sondro/512px-/k-sh_8b_200px.png)
+![K](/Sondro/512px-/k-sh_8b_200px_github.png)
 
 #### k - with shadow _ 8-bit color _ 200px X 200px _ png
-#### <a href="./Sondro/512px-/k-sh_8b_200px_chrome.png">k-sh_8b_200px.png</a>
-iOS 
+#### <a href="./Sondro/512px-/k-sh_8b_200px_github.png">k-sh_8b_200px_github.png</a>
+Github 
 
 -----------------------------------
 Naming formats explained here later.
