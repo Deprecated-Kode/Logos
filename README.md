@@ -38,7 +38,44 @@ Chrome browser favicon
 
 #### k - with shadow _ 8-bit color _ 200px X 200px _ png
 #### <a href="./Sondro/512px-/k-sh_8b_200px_github.png">k-sh_8b_200px_github.png</a>
-Github repo logo 
+Github Kode main repo 
 
 -----------------------------------
-Naming formats explained here later.
+![K](/Sondro/512px-/k-sh_8b_256px.png)
+
+#### k - with shadow _ 8-bit color _ 256px X 256px _ png
+#### <a href="./Sondro/512px-/k-sh_8b_256px.png">k-sh_8b_256px.png</a>
+Hi Res Icon
+
+-----------------------------------
+![K](/Sondro/1080p/k-sh_8b_416x407px.png)
+
+#### k - with shadow _ 8-bit color _ 416px X 407px _ png
+#### <a href="./Sondro/1080p/k-sh_8b_416x407px.png">k-sh_8b_416x407px.png</a>
+1080p Logo
+
+-----------------------------------
+
+![K](/Sondro/512px-/k-sh_8b_512px.png)
+
+#### k - with shadow _ 8-bit color _ 512px X 512px _ png
+#### <a href="./Sondro/512px-/k-sh_8b_512px.png">k-sh_8b_512px.png</a>
+Hi Res Icon/Texture
+
+-----------------------------------
+
+![K](/Sondro/1024px+/k-sh_8b_1024px.png)
+
+#### k - with shadow _ 8-bit color _ 1024px X 1024px _ png
+#### <a href="./Sondro/1024px+/k-sh_8b_1024px.png">k-sh_8b_1024px.png</a>
+Hi Res Logo/Texture
+
+-----------------------------------
+
+![K](/Sondro/1024px+/k-sh_8b_5k_25%-margin.png)
+
+#### k - with shadow _ 8-bit color _ 1024px X 1024px _ png
+#### <a href="./Sondro/1024px+/k-sh_8b_5k_25%-margin">k-sh_8b_5k_25%-margin</a>
+Hi Res Logo/Texture
+
+-----------------------------------
