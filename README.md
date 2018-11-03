@@ -7,7 +7,7 @@
 
 #### k - with shadow _ 8-bit color _ 16px X 16px _ png  
 #### <a href="https://github.com/Kode/Logos/tree/master/Sondro/32px-/k-sh_8b_16px.png">k-sh_8b_16px.png</a>
-#### PLATFORMS: [old] Web favorites, [old] tray icon 
+[old] Web favorites, [old] tray icon 
 
 -----------------------------------
 
@@ -15,14 +15,14 @@
 
 #### k - with shadow _ 8-bit color _ 32px X 32px _ png  
 #### <a href="https://github.com/Kode/Logos/tree/master/Sondro/32px-/k-sh_8b_32px.png">k-sh_8b_32px.png</a>
-#### PLATFORMS: Web favorites, tray icon 
+Web favorites, tray icon 
 
 -----------------------------------
 ![K](/Sondro/512px-/k-sh_8b_192px_chrome.png)
 
 #### k - with shadow _ 8-bit color _ 192px X 192px _ png
 #### <a href="https://github.com/Kode/Logos/tree/master/Sondro/512px-/k-sh_8b_192px_chrome.png">k-sh_8b_192px_chrome.png</a>
-#### PLATFORMS: Chrome browser favicon 
+Chrome browser favicon 
 
 -----------------------------------
 Naming formats explained here later.
