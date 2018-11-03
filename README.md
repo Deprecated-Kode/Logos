@@ -20,7 +20,9 @@
 -----------------------------------
 ![K](/Sondro/512px-/k-sh_8b_192px_chrome.png)
 
-#### k - with shadow _ 8-bit color _ 192px X 192px _ png  (https://github.com/Kode/Logos/tree/master/Sondro/512px-/k-sh_8b_192px_chrome.png)
+#### k - with shadow _ 8-bit color _ 192px X 192px _ png
+#### <a href="https://github.com/Kode/Logos/tree/master/Sondro/512px-/k-sh_8b_192px_chrome.png">k-sh_8b_192px_chrome.png</a>
+#### PLATFORMS: Chrome browser favicon 
 
 -----------------------------------
 Naming formats explained here later.
