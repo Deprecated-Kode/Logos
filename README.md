@@ -2,6 +2,8 @@
 ![Kode Studio Logo](/kodestudio.png)
 
 -----------------------------------
+<details><summary>K</summary>
+<p>
 
 ![K](/Sondro/32px-/k-sh_256c_16px.png)
 
@@ -79,3 +81,5 @@ Hi res logo, Hi res Texture
 Print logo, ultra res texture
 
 -----------------------------------
+</p>
+</details>
