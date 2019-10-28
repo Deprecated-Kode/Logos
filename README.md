@@ -3,27 +3,50 @@
 
 -----------------------------------
 
-<details><summary><strong>'Kode Studio' logos:<strong></summary>
+<details><summary><strong>'Kode Studio' png logos:<strong></summary>
 <p>
 
 !['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_m16b_ty.png)
 
-#### Kode Studio _ logo _ 16b - tiny [compressed] . png  
+#### Kode Studio _ logo _ 16b->8b color - tiny [compressed] . png  
 #### <a href="./Sondro/1080p/compressed/ks_logo_m16b_ty.png">ks_logo_m16b_ty.png</a>
-1080p 35kb 16b->8b compressed logo with shadow. 
+1080p 34kb 16b->8b compressed logo with shadow. 
 
 -----------------------------------
 
-!['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_m16b_ty.png)
+!['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_m8b_ty.png)
 
-#### Kode Studio _ logo _ 16b - tiny [compressed] . png  
-#### <a href="./Sondro/1080p/compressed/ks_logo_m16b_ty.png">ks_logo_m16b_ty.png</a>
-35kb compressed logo. 
+#### Kode Studio _ logo _ 16b->8b color - tiny [compressed] . png  
+#### <a href="./Sondro/1080p/compressed/ks_logo_8mb_ty.png">ks_logo_m8b_ty.png</a>
+1080p 44kb 8b compressed logo with shadow. 
 
 -----------------------------------
 
 </p>
 </details>
+
+<details><summary><strong>'Kode Studio' SVG logos:<strong></summary>
+<p>
+
+!['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_8b_no_gradient.svg)
+
+#### Kode Studio _ logo _ no _ gradient . svg  
+#### <a href="./Sondro/1080p/compressed/ks_logo_8b_no_gradient.svg">ks_logo_8b_no_gradient.svg</a>
+Scalable(1080p+) 17kb SVG with no gradient. 
+
+-----------------------------------
+
+!['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_m8b_ty.png)
+
+#### Kode Studio _ logo _ 8b color - no gradient tiny [compressed] . png  
+#### <a href="./Sondro/1080p/compressed/ks_logo_8b_no_gradient_ty.png">ks_logo_m8b_ty.png</a>
+1080p 21kb 8b compressed no gradient logo. 
+
+-----------------------------------
+
+</p>
+</details>
+
 
 <details><summary><strong>'K' icons</strong></summary>
 <p>
