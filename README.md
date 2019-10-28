@@ -2,7 +2,7 @@
 ![Kode Studio Logo](/kodestudio.png)
 
 -----------------------------------
-<details><summary>### K icons</summary>
+<details><summary> ### K icons </summary>
 <p>
 
 ![K](/Sondro/32px-/k-sh_256c_16px.png)
