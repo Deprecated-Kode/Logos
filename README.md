@@ -36,10 +36,10 @@ Scalable(1080p+) 17kb SVG with no gradient.
 
 -----------------------------------
 
-!['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_m8b_ty.png)
+!['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_8b_no_gradient_ty.png)
 
 #### Kode Studio _ logo _ 8b color - no gradient tiny [compressed] . png  
-#### <a href="./Sondro/1080p/compressed/ks_logo_8b_no_gradient_ty.png">ks_logo_m8b_ty.png</a>
+#### <a href="./Sondro/1080p/compressed/ks_logo_8b_no_gradient_ty.png">ks_logo_8b_no_gradient_ty</a>
 1080p 21kb 8b compressed no gradient logo. 
 
 -----------------------------------
