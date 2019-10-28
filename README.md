@@ -83,7 +83,7 @@ Print logo, ultra res texture
 -----------------------------------
 </p>
 </details>
------------------------------------
+
 <details><summary>'Kode Studio' logos:</summary>
 <p>
 
