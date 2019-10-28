@@ -1,5 +1,5 @@
 # Logos
-![Kode Studio Logo](/kodestudio.png)
+![Kode Studio Logo](./Sondro/1080p/compressed/ks_logo_m16b_ty.png)
 
 -----------------------------------
 <details><summary>'K' icons</summary>
