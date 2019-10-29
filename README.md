@@ -16,7 +16,7 @@
 
 !['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_m8b_ty.png)
 
-#### Kode Studio _ logo _ 16b->8b color - tiny [compressed] . png  
+#### Kode Studio _ logo _ 8b color - tiny [compressed] . png  
 #### <a href="./Sondro/1080p/compressed/ks_logo_8mb_ty.png">ks_logo_m8b_ty.png</a>
 1080p 44kb 8b compressed logo with shadow. 
 
