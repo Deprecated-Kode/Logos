@@ -3,7 +3,7 @@
 
 -----------------------------------
 
-<details><summary><strong>'Kode Studio' png logos:<strong></summary>
+<details><summary><strong>'Kode Studio' PNG logos:<strong></summary>
 <p>
 
 !['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_m16b_ty.png)
