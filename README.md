@@ -40,7 +40,7 @@
 
 #### Kode Studio _ logo _ no _ gradient . svg  
 #### <a href="./Sondro/1080p/compressed/ks_logo_8b_no_gradient.svg">ks_logo_8b_no_gradient.svg</a>
-Scalable(1080p+) 17kb SVG with no gradient. 
+Scales (1080p+) 17kb SVG with no gradient. 
 
 -----------------------------------
 
