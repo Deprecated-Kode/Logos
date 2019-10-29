@@ -48,7 +48,7 @@ Scalable(1080p+) 17kb SVG with no gradient.
 </details>
 
 
-<details><summary><strong>'K' icons</strong></summary>
+<details><summary><strong>'K' icons:</strong></summary>
 <p>
 
 ![K](/Sondro/32px-/k-sh_256c_16px.png)
