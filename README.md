@@ -22,6 +22,14 @@
 
 -----------------------------------
 
+!['Kode Studio' logo](./Sondro/1080p/ks_logo_m8b.png)
+
+#### Kode Studio _ logo _ 8b color . png  
+#### <a href="./Sondro/1080p/compressed/ks_logo_m8mb.png">ks_logo_m8b.png</a>
+1080p 248kb 8b logo with shadow [NOTE: for compositing or new  formats/compression].
+
+-----------------------------------
+
 !['Kode Studio' logo](./Sondro/1080p/compressed/ks_logo_8b_no_gradient_ty.png)
 
 #### Kode Studio _ logo _ 8b color - no gradient tiny [compressed] . png  
