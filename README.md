@@ -1,5 +1,5 @@
 # Logos & ID
-![Kode Studio Logo](./Sondro/1080p/compressed/ks_logo_m16b_ty.png)
+![Kode Studio Logo](./Sondro/1080p/ks_logo_m8b.png)
 
 -----------------------------------
 
